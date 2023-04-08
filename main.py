@@ -11,3 +11,6 @@ def test_function(a,b):
         print(a, 'is maximum')
     elif a == b:
         print(a, 'is equal to', b)
+    else:
+        print(b, 'is maximum')
+test_function(7, 10)
