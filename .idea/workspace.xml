@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf14cc0-9e78-464c-b137-4cc98e50b690" name="Changes" comment="add new rows in function">
-      <change beforePath="$PROJECT_DIR$/py_charm.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_charm.py" afterDir="false" />
-    </list>
+    <list default="true" id="2cf14cc0-9e78-464c-b137-4cc98e50b690" name="Changes" comment="add new rows in function" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
