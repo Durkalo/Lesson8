@@ -3,3 +3,12 @@ def square(number):
     return result
 num = int(input("Insert your number: "))
 squared_num = square(num)
+
+def test_function(a,b):
+    if a > b:
+        print(a, 'is maximum')
+    elif a == b:
+        print(a, 'is equal to', b)
+    else:
+        print(b, 'is maximum')
+test_function(7, 10)
