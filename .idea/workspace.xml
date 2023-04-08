@@ -116,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680886758930</updated>
       <workItem from="1680886761574" duration="10311000" />
+      <workItem from="1680959772010" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="Add function_first rows">
       <created>1680891118294</created>
@@ -232,5 +233,16 @@
     <MESSAGE value="Merge two branches" />
     <MESSAGE value="Changed code" />
     <option name="LAST_COMMIT_MESSAGE" value="Changed code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
